@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+bin/*
+pkg/*
+/data
+src/**/vendor
+glide.lock
+.env
